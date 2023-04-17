@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Serbia",
+    "intelligence": "Effective intelligence network",
+    "borderSecurity": "Moderate border control",
+    "counterTerrorism": "Strong counter-terrorism measures",
+    "cyberSecurity": "Growing focus on cybersecurity",
+    "emergencyManagement": "Efficient emergency response",
+    "criticalInfrastructure": "Stable infrastructure maintenance",
+    "publicHealthSecurity": "Improving public health system"
+  },
+  {
+    "name": "Crna Gora",
+    "intelligence": "Developing intelligence capabilities",
+    "borderSecurity": "Coastal border challenges",
+    "counterTerrorism": "Combating domestic terrorism",
+    "cyberSecurity": "Investing in cyber defense",
+    "emergencyManagement": "Adequate emergency management",
+    "criticalInfrastructure": "Continuously improving infrastructure",
+    "publicHealthSecurity": "Evolving public health strategies"
+  },
+  {
+    "name": "Greece",
+    "intelligence": "Robust intelligence services",
+    "borderSecurity": "Strong maritime border control",
+    "counterTerrorism": "Effective counter-terrorism policies",
+    "cyberSecurity": "Prioritizing cybersecurity",
+    "emergencyManagement": "Experienced in disaster management",
+    "criticalInfrastructure": "Well-maintained critical infrastructure",
+    "publicHealthSecurity": "Strong public health measures"
+  },
+  {
+    "name": "Romania",
+    "intelligence": "Expanding intelligence operations",
+    "borderSecurity": "Strengthening border security",
+    "counterTerrorism": "Proactive counter-terrorism efforts",
+    "cyberSecurity": "Enhancing cybersecurity capabilities",
+    "emergencyManagement": "Improving emergency preparedness",
+    "criticalInfrastructure": "Upgrading critical infrastructure",
+    "publicHealthSecurity": "Modernizing public health system"
+  },
+  {
+    "name": "Slovenia",
+    "intelligence": "Efficient intelligence gathering",
+    "borderSecurity": "Effective border management",
+    "counterTerrorism": "Focused on counter-terrorism",
+    "cyberSecurity": "Increasing cybersecurity investments",
+    "emergencyManagement": "Streamlined emergency response",
+    "criticalInfrastructure": "Maintaining critical infrastructure",
+    "publicHealthSecurity": "High-quality public health services"
+  },
+  {
+    "name": "Bosnia",
+    "intelligence": "Building intelligence capacity",
+    "borderSecurity": "Challenges in border management",
+    "counterTerrorism": "Addressing internal threats",
+    "cyberSecurity": "Developing cybersecurity strategies",
+    "emergencyManagement": "Enhancing emergency response",
+    "criticalInfrastructure": "Infrastructure development initiatives",
+    "publicHealthSecurity": "Reforming public health system"
+  },
+  {
+    "name": "Bulgaria",
+    "intelligence": "Active intelligence community",
+    "borderSecurity": "Securing borders and checkpoints",
+    "counterTerrorism": "Mitigating terrorism risks",
+    "cyberSecurity": "Adapting to cyber threats",
+    "emergencyManagement": "Comprehensive emergency planning",
+    "criticalInfrastructure": "Protecting critical assets",
+    "publicHealthSecurity": "Strengthening public health resilience"
+  },
+  {
+    "name": "Hungary",
+    "intelligence": "Solid intelligence network",
+    "borderSecurity": "Rigorous border enforcement",
+    "counterTerrorism": "Committed to counter-terrorism",
+    "cyberSecurity": "Focus on cyber threat prevention",
+    "emergencyManagement": "Well-coordinated emergency services",
+    "criticalInfrastructure": "Securing vital infrastructure",
+    "publicHealthSecurity": "Building a robust public health system"
+    },
+    {
+    "name": "Macedonia",
+    "intelligence": "Emerging intelligence capabilities",
+    "borderSecurity": "Strengthening border controls",
+    "counterTerrorism": "Preventing terrorist activities",
+    "cyberSecurity": "Raising cybersecurity awareness",
+    "emergencyManagement": "Developing emergency protocols",
+    "criticalInfrastructure": "Prioritizing infrastructure security",
+    "publicHealthSecurity": "Expanding public health services"
+    },
+    {
+    "name": "Turkey",
+    "intelligence": "Extensive intelligence network",
+    "borderSecurity": "Vigilant border security measures",
+    "counterTerrorism": "Proven counter-terrorism strategies",
+    "cyberSecurity": "National focus on cybersecurity",
+    "emergencyManagement": "Reliable emergency response",
+    "criticalInfrastructure": "Safeguarding critical systems",
+    "publicHealthSecurity": "Comprehensive public health framework"
+    },
+    {
+    "name": "Croatia",
+    "intelligence": "Integrated intelligence services",
+    "borderSecurity": "Effective border patrol",
+    "counterTerrorism": "Counter-terrorism collaborations",
+    "cyberSecurity": "Growing cybersecurity initiatives",
+    "emergencyManagement": "Efficient emergency management",
+    "criticalInfrastructure": "Resilient infrastructure systems",
+    "publicHealthSecurity": "Accessible public health care"
+    },
+    {
+    "name": "Albania",
+    "intelligence": "Expanding intelligence operations",
+    "borderSecurity": "Enhancing border management",
+    "counterTerrorism": "Fighting terrorism proactively",
+    "cyberSecurity": "Implementing cybersecurity measures",
+    "emergencyManagement": "Upgrading emergency response",
+    "criticalInfrastructure": "Modernizing infrastructure assets",
+    "publicHealthSecurity": "Improving public health policies"
+    }
+    ]

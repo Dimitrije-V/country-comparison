@@ -1,0 +1,39 @@
+.selectorContainer {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .countrySelect {
+    width: 200px;
+  }
+
+  .select {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+
+  .submitButton {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #591550;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .submitButton:hover {
+    background-color: #33072e;
+  }
+
+  .submitButton:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
